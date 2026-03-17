@@ -26,4 +26,5 @@ Implements arithmetic and transfer operations based on control signals.
 |1|1|1|Transfer A|
 
 ## Repository Structure
-
+- circuits/ : Digital simulator circuit files
+- screenshots/ : testing screenshots
